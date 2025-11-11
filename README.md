@@ -25,4 +25,4 @@ An SVM-based classifier effectively distinguishes videos by claim status, with e
 
 ## Confusion Matrix
 The following image shows an example confusion matrix from the model evaluation.
-
+images/confusion_matrix_svm.png
