@@ -25,4 +25,4 @@ An SVM-based classifier effectively distinguishes videos by claim status, with e
 
 ## Confusion Matrix
 The following image shows an example confusion matrix from the model evaluation.
-images/confusion_matrix_svm.png
+https://github.com/MichaeeelJi/Tiktok-Claim-Classification-Project/blob/159e03bb125c1157f3aedd5181b1141b70b731b7/images/confusion_matrix_svm.png
